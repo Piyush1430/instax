@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "192209085621",
+    "project_id": "instax-6eeb2",
+    "storage_bucket": "instax-6eeb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192209085621:android:279e5f913934a9ea588afc",
+        "android_client_info": {
+          "package_name": "com.example.insta_x_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9w3u4oAi5jpXIFearDuV0czOeatO6Ibs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192209085621:android:48dea70927e66d6c588afc",
+        "android_client_info": {
+          "package_name": "com.example.instax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9w3u4oAi5jpXIFearDuV0czOeatO6Ibs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
